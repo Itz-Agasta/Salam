@@ -1,0 +1,20 @@
+prek.toml
+  s_8df3832535c42c::t_4bd8af34e43dbe 43-55
+  s_8df3832535c42c::t_0a59f5b312b6dd 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ece7fa2b8605bce4eb1e839137388b524930bff7",
+  "prompts": {},
+  "sessions": {
+    "s_8df3832535c42c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc3bbe9f-0290-482c-9bc9-67b392afafb2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Itz-Agasta <rupamgolui69@gmail.com>"
+    }
+  }
+}
